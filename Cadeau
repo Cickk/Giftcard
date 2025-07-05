@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>عروضي</title>
+</head>
+<body>
+  <h1>مرحبا بك في عروضنا</h1>
+  <a href="https://adbluemedia.com/offer1">
+    <img src="https://via.placeholder.com/300x150" alt="عرض 1">
+  </a>
+</body>
+</html>
